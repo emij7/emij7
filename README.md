@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ignacio Emiliano Juarez - @emij7
-- 👀 I’m looking to work in frontend developing.
+- 👀 I’m looking to work in front end developing.
 - 🌱 I’m currently working on some personal projects. 
-- 💞️ I’m interested in learning more every day about coding.
+- 💞️ I’m permanently learning about coding.
 - 📫 How to reach me... at my linkedin www.linkedin.com/in/ignacio-emiliano-juarez or my e-mail: juarezignacioemiliano@gmail.com 
 
 <!---
