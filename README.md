@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## I'm Emiliano Juarez
-![](https://komarev.com/ghpvc/?username=your-taabann&color=0069b4)
+![](https://komarev.com/ghpvc/?username=emij7&color=0069b4)
 <table>
   <tr>
     <td>
